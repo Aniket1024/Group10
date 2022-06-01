@@ -1,0 +1,36 @@
+2022-05-29 20:42:35,051  INFO [main] SauceDemo:44 - Browser Open
+2022-05-29 20:42:37,073  INFO [main] SauceDemo:51 - Url Entered
+2022-05-29 20:42:40,837  INFO [main] SauceDemo:62 - entered Username
+2022-05-29 20:42:44,098  INFO [main] SauceDemo:66 - entered Password
+2022-05-29 20:42:47,889  INFO [main] SauceDemo:70 - Clicked on Login
+2022-05-29 20:42:58,699  INFO [main] SauceDemo:62 - entered Username
+2022-05-29 20:43:01,925  INFO [main] SauceDemo:66 - entered Password
+2022-05-29 20:43:05,144  INFO [main] SauceDemo:70 - Clicked on Login
+2022-05-29 20:43:44,590  INFO [main] SauceDemo:97 - End Of the Program
+2022-05-29 20:51:08,288  INFO [main] SauceDemo:46 - Browser Open
+2022-05-29 20:51:11,197  INFO [main] SauceDemo:53 - Url Entered
+2022-05-29 20:51:14,674  INFO [main] SauceDemo:64 - entered Username
+2022-05-29 20:51:18,015  INFO [main] SauceDemo:68 - entered Password
+2022-05-29 20:51:22,285  INFO [main] SauceDemo:74 - Clicked on Login
+2022-05-29 20:51:32,249  INFO [main] SauceDemo:64 - entered Username
+2022-05-29 20:51:35,536  INFO [main] SauceDemo:68 - entered Password
+2022-05-29 20:51:39,066  INFO [main] SauceDemo:74 - Clicked on Login
+2022-05-29 20:52:19,261  INFO [main] SauceDemo:101 - End Of the Program
+2022-05-29 21:18:09,311  INFO [main] SauceDemo:58 - Browser Open
+2022-05-29 21:18:12,851  INFO [main] SauceDemo:65 - Url Entered
+2022-05-29 21:18:16,389  INFO [main] SauceDemo:76 - entered Username
+2022-05-29 21:18:19,772  INFO [main] SauceDemo:80 - entered Password
+2022-05-29 21:18:23,853  INFO [main] SauceDemo:86 - Clicked on Login
+2022-05-29 21:18:33,713  INFO [main] SauceDemo:76 - entered Username
+2022-05-29 21:18:36,975  INFO [main] SauceDemo:80 - entered Password
+2022-05-29 21:18:40,587  INFO [main] SauceDemo:86 - Clicked on Login
+2022-05-29 21:19:20,912  INFO [main] SauceDemo:113 - End Of the Program
+2022-05-29 21:19:45,175  INFO [main] SauceDemo:58 - Browser Open
+2022-05-29 21:19:47,101  INFO [main] SauceDemo:65 - Url Entered
+2022-05-29 21:19:50,758  INFO [main] SauceDemo:76 - entered Username
+2022-05-29 21:19:53,851  INFO [main] SauceDemo:80 - entered Password
+2022-05-29 21:19:57,634  INFO [main] SauceDemo:86 - Clicked on Login
+2022-05-29 21:20:07,333  INFO [main] SauceDemo:76 - entered Username
+2022-05-29 21:20:10,417  INFO [main] SauceDemo:80 - entered Password
+2022-05-29 21:20:13,849  INFO [main] SauceDemo:86 - Clicked on Login
+2022-05-29 21:20:56,162  INFO [main] SauceDemo:113 - End Of the Program
